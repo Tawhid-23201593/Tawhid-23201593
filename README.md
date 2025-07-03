@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tawhid-23201593&label=Profile%20views&color=0e75b6&style=flat" alt="tawhid-23201593" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JAVA**
 
-- 📫 How to reach me **tawhid76hasan@gmail.com**
+- 📫 How to reach me **tawhid.hasan@g.bracu.ac.bd**
 
 - ⚡ Fun fact **I am an Artist!**
 
